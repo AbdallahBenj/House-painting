@@ -27,6 +27,6 @@ To explore the CSS House:
 
 Or view it live here:
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://abdallahbenj.github.io/House-painting/)
 
 ## Build, position, and style — bring your creativity to life with just HTML & CSS! 🎨🏡✨
